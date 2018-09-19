@@ -1,7 +1,9 @@
 # Types of Japanese Desserts
 
 Valerie Tam
+
 In Class Exercise 4: Information Architecture and Markdown
+
 9/19/18
 
 ## Summary
