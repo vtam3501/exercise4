@@ -7,7 +7,7 @@ In Class Exercise 4: Information Architecture and Markdown
 9/19/18
 
 ## Summary
-Monaka (最中) is a Japanese sweet made of azuki bean jam filling sandwiched between two thin crisp wafers made from mochi. The jam can be made from azuki beans but also with sesame seed, chestnuts, or rice cake (Mochi). Kakigori is a Japanese shaved ice dessert flavored with syrup and a sweetener, often condensed milk. Taiyaki (鯛焼き , literally "baked sea bream") is a Japanese fish-shaped cake. They are all famous and popular Japanese desserts that can be found in many dessert shops in New York City.
+Monaka is a type of traditional Japanese dessert that consist of an outer crispy wafer with a sweet filling inside such as red bean paste, mochi, ice cream or chestnut paste. The wafer is made with mochiko flour but isn't considered a mochi. It has a texture similar to an ice cream cone. Kakigori is a traditional Japanese summer dessert with origins dating back to the 11th century Heian Period. It is made by carving a block of pure ice using a special machine, and adding toppings to create flavors like mango or melon. Taiyaki is a Japanese fish-shaped cake. It is made using regular pancake or waffle batter. The batter is poured into a fish-shaped mold for each side. The filling is then put on one side and the mold is closed. All three are famous and popular Japanese desserts that can be found in many dessert shops in New York City.
 
 ## Monaka
 
