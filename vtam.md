@@ -7,7 +7,7 @@ In Class Exercise 4: Information Architecture and Markdown
 9/19/18
 
 ## Summary
-Monaka (最中) is a Japanese sweet made of azuki bean jam filling sandwiched between two thin crisp wafers made from mochi. The jam can be made from azuki beans but also with sesame seed, chestnuts, or rice cake (Mochi).Kakigori is a Japanese shaved ice dessert flavored with syrup and a sweetener, often condensed milk. Taiyaki (鯛焼き , literally "baked sea bream") is a Japanese fish-shaped cake. They are all famous and popular Japanese desserts.
+Monaka (最中) is a Japanese sweet made of azuki bean jam filling sandwiched between two thin crisp wafers made from mochi. The jam can be made from azuki beans but also with sesame seed, chestnuts, or rice cake (Mochi). Kakigori is a Japanese shaved ice dessert flavored with syrup and a sweetener, often condensed milk. Taiyaki (鯛焼き , literally "baked sea bream") is a Japanese fish-shaped cake. They are all famous and popular Japanese desserts that can be found in many dessert shops in New York City.
 
 ## Monaka
 
